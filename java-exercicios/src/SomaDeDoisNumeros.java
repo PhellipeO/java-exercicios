@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Somar {
+public class SomaDeDoisNumeros {
     public static void main(String[] args) {
 
     // CRIAR OBJETO SCANNER
